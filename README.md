@@ -5,7 +5,7 @@ This web app predicts whether a company is likely to **go bankrupt** or remain *
 based on key financial indicators.
 
 ## 🚀 Live App
-[Click here to open the app](https://bankruptcy-f7hyhq3e5szmjp2jhk4ogt.streamlit.app/)
+[Click here to open the app](https://bankruptcy-efbifczu6udsj3dxwpwc79.streamlit.app/)
 
 ## ⚙️ Tech Stack
 - Python
